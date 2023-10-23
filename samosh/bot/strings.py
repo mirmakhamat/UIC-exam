@@ -1,0 +1,6 @@
+CONTACT_BTN = "☎️ Biz bilan aloqa"
+ORDER_BTN = "🛍 Buyurtma berish"
+FEEDBACK_BTN = "✍️ Fikr bildirish"
+SETTINGS_BTN = "⚙️ Sozlamalar"
+BASKET_BTN = "📥 Savatcha"
+BACK_BTN = "⬅️ Ortga"
